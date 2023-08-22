@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá 👋, me chamo Vinícius - um aspirando a desenvolvedor full stack 
+### Seja bem vindo ao meu perfil! 😃
 
-<!--
-**anynoise00/anynoise00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 Estou aprendendo desenvolvimento web pelo curso da [TripleTen](https://tripleten.com/pt-bra/web/meet/)  
+📚 Faço um técnologo em tecnologia da informação com ênfase em informática para internet  
+💬 Tenho como hobby o desenvolvimento de jogos e a leitura de novels japonesas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Comecei a me interessar por programação em 2018, quando fiz um curso em desenvolvimento de jogos pela Udemy. Desde então vim desenvolvendo minhas habilidades em lógica de programação, que agora estão sendo aplicadas para o desenvolvimento web.
+
+Tenho um conhecimento intermediário em inglês, sou bom em na leitura e na fala, mas não consigo escrever e falar com facilidade.
+
+#### Venha checar alguns de meus projetos!
+- [Around React](https://github.com/anynoise00/around-react_ptbr), uma página interativa, feita com React, onde os usuários podem adicionar, remover e curtir fotos
+- [De Pátria para Pátria](https://github.com/anynoise00/web_project_3_ptbr), um projeto que mostra a origem de alguns funcionários da TripleTen
+- [Aprendendo a Aprender](https://github.com/anynoise00/web_project_1_ptbr), uma página para ensinar as pessoas a aprenderem
+
+### Como me contatar
+📧 vinicius.pinto.382@gmail.com
