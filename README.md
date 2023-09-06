@@ -8,7 +8,10 @@
 
 Comecei a me interessar por programação em 2018, quando fiz um curso em desenvolvimento de jogos pela Udemy. Desde então vim desenvolvendo minhas habilidades em lógica de programação, que agora estão sendo aplicadas para o desenvolvimento web.
 
-Tenho um conhecimento intermediário em inglês, sou bom em na leitura e na fala, mas não consigo escrever e falar com facilidade.
+### Aqui estão algumas das tecnologias com as quais já tive contato:
+[![Habilidades](https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,rust,unity,cs,vscode,figma,vue&perline=6)](https://skillicons.dev)
+
+Tenho um conhecimento intermediário em inglês, sou bom em leitura e na escuta, mas não consigo escrever e falar com facilidade.
 
 #### Venha checar alguns de meus projetos!
 - [Around React](https://github.com/anynoise00/around-react_ptbr), uma página interativa, feita com React, onde os usuários podem adicionar, remover e curtir fotos
