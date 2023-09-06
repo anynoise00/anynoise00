@@ -16,4 +16,6 @@ Tenho um conhecimento intermediário em inglês, sou bom em na leitura e na fala
 - [Aprendendo a Aprender](https://github.com/anynoise00/web_project_1_ptbr), uma página para ensinar as pessoas a aprenderem
 
 ### Como me contatar
-📧 vinicius.pinto.382@gmail.com
+📧 vinicius.pinto.382@gmail.com  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vp-213651197/)
+&nbsp;
