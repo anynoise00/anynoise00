@@ -8,7 +8,7 @@ Comecei a me interessar por programação em 2018, quando fiz um curso em desenv
 
 Tenho um conhecimento intermediário em inglês, sendo bom tanto na leitura quanto na escuta.
 
-### Aqui estão as tecnologias com as quais sou proficiente:
+### Aqui estão as tecnologias com as quais tenho mais proficiência:
 
 ![Badge React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Badge Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
